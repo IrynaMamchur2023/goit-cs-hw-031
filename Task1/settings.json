@@ -1,0 +1,12 @@
+{
+    "postgres.connections": [
+        {
+            "host": "localhost",
+            "port": "5432",
+            "database": "task1.1",
+            "user": "postgres",
+            "password": "Irinal371",
+            "id": "myPostgreSQLConnection"
+        }
+    ]
+}
